@@ -41,6 +41,7 @@
 
 | Project | Description | Stack |
 |---|---|---|
+| 🧥 [**Vintib**](https://github.com/Team-vintib/Vintib-AI) | 빈티지 의류 라이브 경매 플랫폼의 AI 파트. 상품 사진 분류·하자 검수·시세 추정, 가상 시착, 라이브 채팅 판정·반복 질문 RAG, GPU 서버 없이 팀원 노트북 워커를 HTTPS 폴링으로 붙인 비동기 job 게이트웨이 | FastAPI · Redis · pgvector · SAM3 · Qwen3-VL · FLUX.2 |
 | 🌉 [**DevBridge AX**](https://github.com/DevBridge-AX/devbridge-ai-engine) | 문서·Git 커밋·업무·회의를 하나의 맥락으로 연결하는 AI 프로젝트 지식 협업 플랫폼. 하이브리드 RAG(벡터+BM25) 기반 AI 엔진과 직무별 멀티 페르소나 응답 | FastAPI · Spring Boot · ChromaDB · MySQL |
 | 🚇 [**숨길 · SUMGIL**](https://github.com/Bunsan-Vacance/SUMGIL) | 서울시 공공데이터를 Kafka·Spark로 분산 처리해 지하철 혼잡도·따릉이 재고를 예측하고, "빠른 길"과 "덜 붐비는 길"을 안내하는 내비게이션 | Kafka · Spark · LightGBM · Spring Boot · React |
 | 🏭 [**KAMP 제조 AI 경진대회**](https://github.com/ChoeHyeongSoo/KAMP-Manufacturing-AI) | 진동·전류 시계열 기반 프레스 유압펌프 이상 조기탐지 및 오경보 분석 (Ridge-VAR + MCD) | Python · scikit-learn |
