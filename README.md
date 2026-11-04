@@ -54,8 +54,8 @@
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=ChoeHyeongSoo&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=false&count_private=true" alt="GitHub stats"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChoeHyeongSoo&layout=compact&theme=github_dark&hide_border=true" alt="Top languages"/>
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ChoeHyeongSoo&theme=github_dark" alt="GitHub stats"/>
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ChoeHyeongSoo&theme=github_dark" alt="Top languages"/>
 
 <img src="https://streak-stats.demolab.com?user=ChoeHyeongSoo&theme=github-dark-blue&hide_border=true" alt="Streak stats"/>
 
