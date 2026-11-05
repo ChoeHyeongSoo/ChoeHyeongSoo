@@ -41,19 +41,20 @@
 
 | Project | Description | Stack |
 |---|---|---|
-| 🧥 [**Vintib**](https://github.com/Team-vintib/Vintib-AI) | 빈티지 의류 라이브 경매 플랫폼의 AI 파트. 상품 사진 분류·하자 검수·시세 추정, 가상 시착, 라이브 채팅 판정·반복 질문 RAG, GPU 서버 없이 팀원 노트북 워커를 HTTPS 폴링으로 붙인 비동기 job 게이트웨이 | FastAPI · Redis · pgvector · SAM3 · Qwen3-VL · FLUX.2 |
-| 🌉 [**DevBridge AX**](https://github.com/DevBridge-AX/devbridge-ai-engine) | 문서·Git 커밋·업무·회의를 하나의 맥락으로 연결하는 AI 프로젝트 지식 협업 플랫폼. 하이브리드 RAG(벡터+BM25) 기반 AI 엔진과 직무별 멀티 페르소나 응답 | FastAPI · Spring Boot · ChromaDB · MySQL |
-| 🚇 [**숨길 · SUMGIL**](https://github.com/Bunsan-Vacance/SUMGIL) | 서울시 공공데이터를 Kafka·Spark로 분산 처리해 지하철 혼잡도·따릉이 재고를 예측하고, "빠른 길"과 "덜 붐비는 길"을 안내하는 내비게이션 | Kafka · Spark · LightGBM · Spring Boot · React |
-| 🏭 [**KAMP 제조 AI 경진대회**](https://github.com/ChoeHyeongSoo/KAMP-Manufacturing-AI) | 진동·전류 시계열 기반 프레스 유압펌프 이상 조기탐지 및 오경보 분석 (Ridge-VAR + MCD) | Python · scikit-learn |
-| 📡 [**UWB NLoS/LoS Classification**](https://github.com/ChoeHyeongSoo/UWB-NLoS-LoS-Classification-for-KF) ⭐19 | UWB CIR로 LoS/NLoS를 분류해 Kalman Filter 보정용 NLoS Probability 산출 — CNN+LSTM Test Acc **0.96** | PyTorch · DNN/CNN/LSTM |
-| 📍 [**UWB Indoor Positioning**](https://github.com/ChoeHyeongSoo/UWB-based-Indoor-Positioning-Using-Deep-Learning) | 딥러닝(DNN·LSTM) 기반 UWB 실내 측위와 삼변측량 비교, DWM-1000 실시간 추론 임베디드 설계 | PyTorch · DWM-1000 |
-| 🛍️ [**AI Shopping Assistant**](https://github.com/ChoeHyeongSoo/ai_shopping_assistant) | 패션 이미지 → YOLO 탐지·CLIP 유사도 검색 → 자연어 예산 조건으로 상품 재추천하는 RAG 챗봇 | YOLOv8 · CLIP · LangChain · Llama 3.2 |
+| 🧥 [**Vintib**](https://github.com/Team-vintib/Vintib-AI) | 빈티지 의류 라이브 경매 플랫폼 Vintib AI 엔진 : 상품 분류·하자 검수·시세 조회 / 가상 시착 / 라이브 채팅 판정·RAG 답변 | FastAPI · Redis · pgvector · SAM3 · Qwen3-VL · FLUX.2 |
+| 🌉 [**DevBridge AX**](https://github.com/DevBridge-AX/devbridge-ai-engine) | FastAPI 및 하이브리드 RAG 기반 지능형 문서 분석 및 개발 컨텍스트 AI 엔진 | FastAPI · Spring Boot · ChromaDB · MySQL |
+| 🚇 [**숨길 · SUMGIL**](https://github.com/Bunsan-Vacance/SUMGIL) | 서울시 공공데이터를 Spark·Kafka로 분산 처리해 지하철 혼잡도와 따릉이 재고를 예측하고, 최단시간 경로와 혼잡회피 경로를 안내하는 길찾기 서비스 | Kafka · Spark · LightGBM · Spring Boot · React |
+| 🏭 [**KAMP 제조 AI 경진대회**](https://github.com/ChoeHyeongSoo/KAMP-Manufacturing-AI) | [K-인공지능 제조데이터 분석 경진대회] 제조 이상·불량 예측 AI 모델 개발 및 오류분석 | Python · scikit-learn |
+| 📡 [**UWB NLoS/LoS Classification**](https://github.com/ChoeHyeongSoo/UWB-NLoS-LoS-Classification-for-KF) ⭐19 | Research of UWB NLoS/LoS Classification Using ML | PyTorch · DNN/CNN/LSTM |
+| 📍 [**UWB Indoor Positioning**](https://github.com/ChoeHyeongSoo/UWB-based-Indoor-Positioning-Using-Deep-Learning) | Research of UWB based Indoor Positioning Using Deep Learning | PyTorch · DWM-1000 |
 
 ---
 
 ### 📊 GitHub Stats
 
 <div align="center">
+
+<img width="100%" src="https://ghchart.rshah.org/ChoeHyeongSoo" alt="Contribution graph"/>
 
 <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ChoeHyeongSoo&theme=github_dark" alt="GitHub stats"/>
 <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ChoeHyeongSoo&theme=github_dark" alt="Top languages"/>
