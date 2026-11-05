@@ -54,8 +54,6 @@
 
 <div align="center">
 
-<img width="100%" src="https://ghchart.rshah.org/ChoeHyeongSoo" alt="Contribution graph"/>
-
 <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ChoeHyeongSoo&theme=github_dark" alt="GitHub stats"/>
 <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ChoeHyeongSoo&theme=github_dark" alt="Top languages"/>
 
